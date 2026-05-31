@@ -1,4 +1,4 @@
-# Hi there, I'm Mohit Prasad 👋
+# Hi there, I'm Mohit Prasad 🧑‍💻
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=700&lines=Software+Engineer+%7C+Building+Scalable+Distributed+Systems;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Kafka+%C2%B7+Kubernetes;Oracle+Certified+Java+SE+11+Developer)](https://git.io/typing-svg)
 
@@ -70,10 +70,10 @@ I'm a **Software Engineer** based in **Ranchi, India** with ~3 years of experien
 
 ---
 
-## 🧠 Architecture Patterns I Work With
+## 🧩 Architecture Patterns I Work With
 
 ```
-✅ Event-Driven Architecture (Kafka)     ✅ Cache-Aside (Redis)
+✅ Event-Driven Architecture (Kafka)      ✅ Cache-Aside (Redis)
 ✅ WebSocket Real-Time Sync (STOMP)       ✅ Async Message Queues
 ✅ Microservices + Monorepo               ✅ Container Orchestration (K8s)
 ✅ CI/CD Pipelines (GitHub Actions)       ✅ Sandboxed Code Execution (Docker)
@@ -139,12 +139,12 @@ I'm a **Software Engineer** based in **Ranchi, India** with ~3 years of experien
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhtpsd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhtpsd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhtpsd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhtpsd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mhtpsd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

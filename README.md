@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&width=700&lines=Software+Engineer+%7C+Building+Scalable+Distributed+Systems;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Kafka+%C2%B7+Kubernetes;Oracle+Certified+Java+SE+11+Developer)](https://git.io/typing-svg)
 
-I'm a **Software Engineer** based in **Ranchi, India** with ~3 years of experience building enterprise-grade applications. I've delivered mission-critical backend and frontend features for **Citi Bank** at LTIMindtree, working on the BRCC (Business Risk Control Committee) platform using Spring Boot, Angular, Redis, and Oracle SQL. I'm passionate about clean architecture, scalable system design, and cloud-native development.
+I'm a **Software Engineer** based in **Ranchi, India** with 2 years of experience building enterprise-grade applications. I've delivered mission-critical backend and frontend features for **Citi Bank** at LTIMindtree, working on the BRCC (Business Risk Control Committee) platform using Spring Boot, Angular, Redis, and Oracle SQL. I'm passionate about clean architecture, scalable system design, and cloud-native development.
 
 ---
 
